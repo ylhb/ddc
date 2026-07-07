@@ -1,9 +1,11 @@
 name: Device Data Crawler (Node.js)
 
 on:
-  schedule:
+  # schedule:
     # 国际标准时间 (UTC)。每半小时执行一次
-    - cron: '0,30 * * * *'
+    # - cron: '0,30 * * * *'
+  repository_dispatch:
+    types: [fetch-data-event]
   workflow_dispatch: # 支持在网页上手动点击触发测试
 
 jobs:
