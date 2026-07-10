@@ -5548,5 +5548,190 @@
         ]
       }
     ]
+  },
+  {
+    "timestamp": "2026-07-10T15:05:29.578Z",
+    "results": [
+      {
+        "deviceId": "013000150",
+        "data": [
+          {
+            "portId": 1,
+            "canCharge": true
+          },
+          {
+            "portId": 2,
+            "canCharge": true
+          },
+          {
+            "portId": 3,
+            "canCharge": true
+          },
+          {
+            "portId": 4,
+            "canCharge": true
+          },
+          {
+            "portId": 5,
+            "canCharge": true
+          },
+          {
+            "portId": 6,
+            "canCharge": true
+          },
+          {
+            "portId": 7,
+            "canCharge": true
+          },
+          {
+            "portId": 8,
+            "canCharge": true
+          },
+          {
+            "portId": 9,
+            "canCharge": true
+          },
+          {
+            "portId": 10,
+            "canCharge": true
+          }
+        ]
+      },
+      {
+        "deviceId": "013000159",
+        "data": [
+          {
+            "portId": 1,
+            "canCharge": true
+          },
+          {
+            "portId": 2,
+            "canCharge": true
+          },
+          {
+            "portId": 3,
+            "canCharge": true
+          },
+          {
+            "portId": 4,
+            "canCharge": true
+          },
+          {
+            "portId": 5,
+            "canCharge": true
+          },
+          {
+            "portId": 6,
+            "canCharge": true
+          },
+          {
+            "portId": 7,
+            "canCharge": true
+          },
+          {
+            "portId": 8,
+            "canCharge": true
+          },
+          {
+            "portId": 9,
+            "canCharge": true
+          },
+          {
+            "portId": 10,
+            "canCharge": false
+          }
+        ]
+      },
+      {
+        "deviceId": "013000154",
+        "data": [
+          {
+            "portId": 1,
+            "canCharge": true
+          },
+          {
+            "portId": 2,
+            "canCharge": true
+          },
+          {
+            "portId": 3,
+            "canCharge": true
+          },
+          {
+            "portId": 4,
+            "canCharge": true
+          },
+          {
+            "portId": 5,
+            "canCharge": true
+          },
+          {
+            "portId": 6,
+            "canCharge": true
+          },
+          {
+            "portId": 7,
+            "canCharge": true
+          },
+          {
+            "portId": 8,
+            "canCharge": true
+          },
+          {
+            "portId": 9,
+            "canCharge": true
+          },
+          {
+            "portId": 10,
+            "canCharge": true
+          }
+        ]
+      },
+      {
+        "deviceId": "013000158",
+        "data": [
+          {
+            "portId": 1,
+            "canCharge": true
+          },
+          {
+            "portId": 2,
+            "canCharge": false
+          },
+          {
+            "portId": 3,
+            "canCharge": true
+          },
+          {
+            "portId": 4,
+            "canCharge": true
+          },
+          {
+            "portId": 5,
+            "canCharge": true
+          },
+          {
+            "portId": 6,
+            "canCharge": true
+          },
+          {
+            "portId": 7,
+            "canCharge": true
+          },
+          {
+            "portId": 8,
+            "canCharge": true
+          },
+          {
+            "portId": 9,
+            "canCharge": true
+          },
+          {
+            "portId": 10,
+            "canCharge": true
+          }
+        ]
+      }
+    ]
   }
 ]
